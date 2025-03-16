@@ -46,7 +46,7 @@ Adding real-time data integration
 Using deep learning models for better prediction
 Creating a web or mobile application to display AQI trends
 
--> Tools and Libraries Used
+Tools and Libraries Used
 ----------------------------
 Programming Language: Python
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
